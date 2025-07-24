@@ -36,7 +36,7 @@ const Navbar = () => {
           <div className="flex items-center space-x-3">
   <div className="w-10 h-10 bg-gradient-to-br from-accent-100 to-primary-300 rounded-xl flex items-center justify-center overflow-hidden">
     <img
-      src="/src/images/logoweb.png"
+      src="/images/logoweb.png"
       alt="Logo Padukuhan Sangen 2"
       className="w-8 h-8 object-contain"
       onError={(e) => {
