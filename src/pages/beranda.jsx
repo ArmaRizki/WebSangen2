@@ -223,7 +223,7 @@ const Beranda = () => {
                   <h1 className="text-4xl lg:text-6xl font-bold text-white leading-tight">
                     Selamat Datang di 
                     <span className="block bg-gradient-to-r from-accent-100 to-white bg-clip-text text-transparent pb-2">
-                      Padukuhan Sangen 2
+                      ARDIIII
                     </span>
                   </h1>
                 </AnimatedSection>
