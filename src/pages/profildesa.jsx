@@ -195,7 +195,7 @@ const ProfilDesa = () => {
                 <div className="relative inline-block">
                   <div className="w-48 h-64 mx-auto rounded-2xl overflow-hidden shadow-2xl bg-gradient-to-br from-primary-100 to-secondary-100">
                     <img
-                      src="/src/images/profildesa/suwandi.JPG"
+                      src="/images/profildesa/suwandi.JPG"
                       alt="Foto Kepala Dukuh Sangen 2"
                       className="w-full h-full object-cover"
                       onError={(e) => {
